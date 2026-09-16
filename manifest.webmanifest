@@ -1,0 +1,30 @@
+{
+  "name": "World of Cars",
+  "short_name": "World of Cars",
+  "description": "Free online car racing game: customize, race 5 tracks, online lobbies with virtual coins.",
+  "start_url": "https://worldofcarsmakemoney.dev/?utm_source=pwa",
+  "scope": "https://worldofcarsmakemoney.dev/",
+  "display": "standalone",
+  "background_color": "#142c28",
+  "theme_color": "#142c28",
+  "icons": [
+    {
+      "src": "https://worldofcarsmakemoney.dev/app_icon.webp",
+      "sizes": "1024x1024",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "https://worldofcarsmakemoney.dev/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://worldofcarsmakemoney.dev/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

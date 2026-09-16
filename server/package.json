@@ -1,0 +1,11 @@
+{
+  "name": "world-of-cars-server",
+  "type": "commonjs",
+  "dependencies": {
+    "ws": "^8.0.0"
+  },
+  "scripts": {
+    "test": "node tests/online-unit.js",
+    "start": "node server/index.js"
+  }
+}

@@ -1,0 +1,38 @@
+# World of Cars — llms.txt
+# Canonical: https://worldofcarsmakemoney.dev/
+# Updated: 2026-09-14. Languages: en, es, zh, hi, fr, ar, pt, ru (?lang=).
+
+> World of Cars is a free online arcade car racing game. Customize your car,
+> race 5 unique tracks, join online lobbies with virtual coins. No download,
+> no real money. 8 languages.
+
+## Play
+- https://worldofcarsmakemoney.dev/ — Play free in the browser.
+
+## What it is
+- Genre: arcade racing. Modes: offline Grand Prix (2 laps) and online lobbies.
+- Garage: car body, paint, decals, eyes, hats, wheels, spoilers, neon underglow, boost FX.
+- Tracks (5): Ornament Valley GP, Sunset Beach Drift, Motor Speedway of the South, Sakura Mountain Run, Riviera Rosso Circuit.
+- Difficulty: EASY / MEDIUM / HARD. Stats: top speed, handling, boost.
+
+## Controls
+- WASD or arrow keys: drive. SPACE: turbo boost. H: horn. R: headlights.
+- Touch controls appear automatically on mobile.
+
+## Online lobbies (virtual coins)
+- Create or join with a 4-letter code. Minimum bet: 1 virtual coin.
+- Winner takes 90% of the pot. Quitters forfeit their bet. No real money involved.
+
+## Languages
+- English, Simplified Chinese, Hindi, Spanish, French, Arabic, Portuguese, Russian.
+- Switch with the globe button in the header or via ?lang= (e.g. /?lang=es).
+
+## FAQ
+- Is it free? Yes — browser only, virtual coins, no real money, no download.
+- How do I start? Press PLAY OFFLINE, customize, pick a track, press START RACE.
+- Online? 4-letter lobby codes; winner takes 90% of the virtual pot.
+- Mobile? Yes, automatic touch controls.
+- Progress? Saved in the browser (offline); lobby balances server-side (online).
+
+## About / FAQ page section
+- https://worldofcarsmakemoney.dev/#aboutmodal — in-game About dialog with FAQ.
