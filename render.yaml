@@ -1,0 +1,21 @@
+# Render Blueprint — World of Cars WS backend (one-click deploy).
+# Uso: dashboard.render.com → New → Blueprint → conecta el repo.
+# Crea 1 Web Service gratis con server/ (Node 22, `ws`).
+# IMPORTANTE: Render inyecta $PORT solo; server/index.js ya usa process.env.PORT.
+# El disco free es efímero: balances/bans se resetean en restart/redeploy
+# (descarga server/data/*.json cada semana si te importan las monedas).
+services:
+  - type: web
+    name: world-of-cars-ws
+    runtime: node
+    rootDir: server
+    plan: free
+    buildCommand: npm ci
+    startCommand: node index.js
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      # Dominios/browsers permitidos en el handshake WS (coma, sin espacios).
+      # Agrega tu dominio final aquí tras crearlo.
+      - key: ORIGIN_ALLOWLIST
+        value: lucky-bird-3c62.corisariama.workers.dev,worldofcarsmakemoney.dev,localhost,127.0.0.1
