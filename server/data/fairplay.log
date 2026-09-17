@@ -1,0 +1,7 @@
+{"ts":"2026-09-16T13:28:02.572Z","ip":"::ffff:127.0.0.1","nick":"Tester","code":"FLOOD","detail":"global-rate"}
+{"ts":"2026-09-16T13:28:02.578Z","ip":"::ffff:127.0.0.1","nick":"Tester","code":"FLOOD","detail":"global-rate"}
+{"ts":"2026-09-16T13:28:02.583Z","ip":"::ffff:127.0.0.1","nick":"Tester","code":"FLOOD","detail":"global-rate"}
+{"ts":"2026-09-16T13:52:35.681Z","ip":"::ffff:127.0.0.1","nick":"Beto","code":"FLOOD","detail":"input-rate"}
+{"ts":"2026-09-16T13:52:35.781Z","ip":"::ffff:127.0.0.1","nick":"Ana","code":"FLOOD","detail":"input-rate"}
+{"ts":"2026-09-16T13:52:35.781Z","ip":"::ffff:127.0.0.1","nick":"Beto","code":"FLOOD","detail":"input-rate"}
+{"ts":"2026-09-16T13:52:35.882Z","ip":"::ffff:127.0.0.1","nick":"Ana","code":"FLOOD","detail":"input-rate"}
